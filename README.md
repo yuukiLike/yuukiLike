@@ -1,16 +1,17 @@
-## Hi there 👋
+### 🍀 Hi, I'm yuukiLike
 
-<!--
-**yuukiLike/yuukiLike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer for fun. Loving the AI era.
 
-Here are some ideas to get you started:
+I build things I want to use — desktop apps, CLI tools, and whatever catches my interest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Tech**: Vue / TypeScript / Rust / Tauri / Shell
+- ✨ **Belief**: AI Advent faction
+- 🔭 **Current project**: [cc-md](https://github.com/yuukiLike/cc-md) — zero-cost Obsidian vault sync across iPhone, Mac, and GitHub
+- 🌱 **Learning**: whatever solves the problem at hand
+- ⚡ **Fun fact**: anime & sci-fi powered developer
+
+---
+
+> *Give time to life, give civilization to years.* — The Three-Body Problem
+
+> *Stay hungry, stay foolish.* — Steve Jobs
