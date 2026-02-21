@@ -6,7 +6,9 @@ I build things I want to use — desktop apps, CLI tools, and whatever catches m
 
 - 🔧 **Tech**: Vue / TypeScript / Rust / Tauri / Shell
 - ✨ **Belief**: AI Advent faction
-- 🔭 **Current project**: [cc-md](https://github.com/yuukiLike/cc-md) — zero-cost Obsidian vault sync across iPhone, Mac, and GitHub
+- 🔭 **Current projects**:
+  - [cc-md](https://github.com/yuukiLike/cc-md) — zero-cost Obsidian vault sync across iPhone, Mac, and GitHub
+  - [cc-md-preview](https://github.com/yuukiLike/cc-md-preview) — cross-platform read-only markdown viewer (WIP)
 - 🌱 **Learning**: whatever solves the problem at hand
 - ⚡ **Fun fact**: anime & sci-fi powered developer
 
@@ -15,3 +17,5 @@ I build things I want to use — desktop apps, CLI tools, and whatever catches m
 > *Give time to life, give civilization to years.* — The Three-Body Problem
 
 > *Stay hungry, stay foolish.* — Steve Jobs
+
+> *Thanks, AI.* — me, every day
