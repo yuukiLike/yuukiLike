@@ -14,8 +14,4 @@ I build things I want to use — desktop apps, CLI tools, and whatever catches m
 
 ---
 
-> *Give time to life, give civilization to years.* — The Three-Body Problem
-
-> *Stay hungry, stay foolish.* — Steve Jobs
-
 > *Thanks, AI.* — me, every day
