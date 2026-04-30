@@ -2,9 +2,9 @@
 
 Developer for fun. Loving the AI era.
 
-**Senior Frontend Engineer | AI Advent Faction | Night Owl 🦉**
-
-> "Everything is Markdown, and AI is the ink."
+> "md is all we need. Watch is happen."
+> 
+> md + protocol + llm = ∞
 
 I build things I want to use — desktop apps, CLI tools, and whatever catches my interest.
 
