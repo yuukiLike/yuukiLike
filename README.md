@@ -2,9 +2,9 @@
 
 Developer for fun. Loving the AI era.
 
-> "md is all we need. Watch is happen."
+> "md is all we need. Watch it happen."
 > 
-> md + protocol + llm = ∞
+> `md` + `protocol` + `llm` = `∞`
 
 I build things I want to use — desktop apps, CLI tools, and whatever catches my interest.
 
@@ -13,8 +13,7 @@ I build things I want to use — desktop apps, CLI tools, and whatever catches m
 - 🔭 **Current projects**:
   - [zeromd](https://github.com/yuukiLike/zeromd) — zero-cost Obsidian vault sync across iPhone, Mac, and GitHub
   - [cc-md-preview](https://github.com/yuukiLike/cc-md-preview) — cross-platform read-only markdown viewer (WIP)
-  - - 🎻 **MusicEyes** (Coming Soon)  
-  *An interactive music theory & violin learning platform. md for music!*
+  - 🎻 **MusicEyes** (Coming Soon) — *An interactive music theory & violin learning platform. md for music!*
 - 🌱 **Learning**: whatever solves the problem at hand
 - ⚡ **Fun fact**: anime & sci-fi powered developer
 
