@@ -1,7 +1,10 @@
 # Hi, I'm yuukiLike 👋
 
+二次元/Dota2/动漫/音乐/小提琴
+
 这里是我的地方，而这里还有东西等着我去建设。 🌱
-Independent developer building local-first tools around Markdown, desktop apps, and AI workflows.
+
+local first.
 
 
 > “md is all we need. Watch it happen.”
