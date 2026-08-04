@@ -1,6 +1,8 @@
 # Hi, I'm yuukiLike 👋
 
+这里是我的地方，而这里还有东西等着我去建设。 🌱
 Independent developer building local-first tools around Markdown, desktop apps, and AI workflows.
+
 
 > “md is all we need. Watch it happen.”
 >
