@@ -1,16 +1,6 @@
-<h2 align="center">Hi There 👋</h2>
+**Treefolk AI** — *Let knowledge grow.* AI tools that turn reading, learning, and everyday work into lasting capability.
 
-I build small tools with AI and follow whatever direction feels worth exploring.
-
-**Local First.**
-
-**Treefolk AI**
-
-*Let knowledge grow.*
-
-AI tools that turn reading, learning, and everyday work into lasting capability.
-
-> Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase.
+> **Local First.** Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase.
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
@@ -20,8 +10,4 @@ AI tools that turn reading, learning, and everyday work into lasting capability.
   <img alt="Web" src="https://img.shields.io/badge/Web-E34F26?logo=html5&logoColor=fff&style=flat-square" />
 </p>
 
----
-
-**Small tools. Deep roots.**
-
-*A human, an AI, and an endless journey.*
+**Small tools. Deep roots.** · *A human, an AI, and an endless journey.*
