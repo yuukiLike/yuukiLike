@@ -1,36 +1,27 @@
-# Hi, I'm yuukiLike 👋
+<h2 align="center">Hi There 👋</h2>
 
-二次元/Dota2/动漫/音乐/小提琴
+I build small tools with AI and follow whatever direction feels worth exploring.
 
-这里是我的地方，而这里还有东西等着我去建设。 🌱
+**Local First.**
 
-local first.
+**Treefolk AI**
 
+*Let knowledge grow.*
 
-> “md is all we need. Watch it happen.”
->
-> `markdown` + `protocols` + `AI` = `∞`
+AI tools that turn reading, learning, and everyday work into lasting capability.
 
-`TypeScript` · `Vue` · `Rust` · `Tauri` · `Swift` · `Shell`
+> Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase.
 
-## Start Here
-
-- 🍀 **[zeromd](https://github.com/yuukiLike/zeromd)** `SHIPPED` — Zero-cost Obsidian vault sync across iPhone, Mac, and GitHub.
-
-## Work in Progress
-
-Early-stage projects. Links are included only where a public prototype exists.
-
-- 🔎 **[Phrase Lens](https://github.com/yuukiLike/en-parse)** `WIP` — A local-first reading tool that makes English sentence structure visible.
-- 🎹 **[Music Games](https://music-games-zeta.vercel.app)** `WIP` — Playable experiments for learning pitch, rhythm, and notation.
-- 💭 **[Philo Talk](https://github.com/yuukiLike/cc-philo-talk)** `WIP` — A personal space for thinking with philosophers and AI.
-- 📈 **Focus Stock** `WIP · Private` — A calm, no-login stock watchlist focused on what matters.
-- 🎻 **MusicEyes** `WIP · Private` — Visual music theory and violin learning.
-- 📖 **CC MD Preview** `WIP · Private` — A cross-platform, read-only Markdown reader.
-- 📥 **Collect Later** `WIP · Private` — Capture now, decide later.
-- 🚢 **Ship Everyday** `WIP · Private` — A small system for moving independent projects forward.
-- 🗃️ **My UI Collect** `WIP · Private` — A personal archive of interface references.
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat-square" />
+  <img alt="Web" src="https://img.shields.io/badge/Web-E34F26?logo=html5&logoColor=fff&style=flat-square" />
+</p>
 
 ---
 
-> *Thanks, AI.* — me, every day
+**Small tools. Deep roots.**
+
+*A human, an AI, and an endless journey.*
