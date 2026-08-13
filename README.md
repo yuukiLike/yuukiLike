@@ -10,7 +10,9 @@
   <img alt="Web" src="https://img.shields.io/badge/Web-E34F26?logo=html5&logoColor=fff&style=flat-square" />
 </p>
 
-**Small tools. Deep roots.** · *Human in the loop.*
+*[Human in the loop.](https://brentfitzgerald.com/posts/the-human-is-the-loop/)* 
+ADHD的解药💊：
+<img width="1254" height="228" alt="image" src="https://github.com/user-attachments/assets/d9db779b-25ec-45ff-925c-744fedcbbe7d" />
 
 
 * [Andrej Kapathy的llm-wiki概念文件](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
