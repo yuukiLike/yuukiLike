@@ -15,4 +15,5 @@
 🫡
 [Andrej Kapathy的llm-wiki概念文件](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
+Deepseek Harness 要开始造元气弹了吗？🍀
 > 相对涌现。复杂性思维强调重视微小、机会，事物的结构与解构，变化的关节点，等等。我们无法等待好的东西的涌现，但是我们可以在底层造成好的涌现的条件。
