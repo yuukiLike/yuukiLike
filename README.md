@@ -14,4 +14,6 @@
 
 🍀🍀🍀
 [Andrej Kapathy的llm-wiki概念文件](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
-Deepseek Harness 现实世界的元气弹，大古 ==
+
+🍀🍀🍀
+Deepseek Harness 现实世界的元气弹 🤔
